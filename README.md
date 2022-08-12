@@ -1,4 +1,4 @@
-Hi my name is Benjamin Humer, and I am an Engineering Student at the University of Toronto.
+Hi my name is Benjamin Humer, and I am an Engineering Physics Student at the University of Toronto.
 
 I am interested in physics and software applications within physics.
 
